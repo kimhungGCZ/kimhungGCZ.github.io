@@ -2,7 +2,7 @@
   "@context": {
     "saref": "http://uri.etsi.org/m2m/saref#",
     "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
-	"m3":"http://purl.org/iot/vocab/m3-lite#",
+	"m3": "http://purl.org/iot/vocab/m3-lite#",
     
     "BuildingSpace": "saref:BuildingSpace",
     "Door": "saref:Door",

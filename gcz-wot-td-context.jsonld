@@ -2,7 +2,8 @@
   "@context": {
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "td": "http://iot.linkeddata.es/def/wot#",
-	"purl": "http://purl.oclc.org/NET/ssnx/qu/qu#",
+	"purl": "http://purl.org/iot/vocab/m3-lite#",
+	
     "Thing": "td:Thing",
     "name": "td:name",
     "base": {
