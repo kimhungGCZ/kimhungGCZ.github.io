@@ -2,6 +2,7 @@
   "@context": {
     "saref": "http://uri.etsi.org/m2m/saref#",
     "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+	"m3":"http://ontology.fiesta-iot.eu/ontologyDocs/m3-lite.owl#",
     
     "BuildingSpace": "saref:BuildingSpace",
     "Door": "saref:Door",
@@ -33,6 +34,8 @@
     "OffCommand": "saref:OffCommand",
     "OpenCommand": "saref:OpenCommand",
     "CloseCommand": "saref:CloseCommand",
+	
+	"Celsius":"m3:DegreeCelsius",
     
     "actsUpon": "saref:actsUpon"
   }
