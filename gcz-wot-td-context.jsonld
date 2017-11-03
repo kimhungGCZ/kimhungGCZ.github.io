@@ -37,7 +37,10 @@
       "@id": "td:isWritable",
       "@type": "xsd:boolean"
     },
-	"unit":"purl:Unit",
+	"unit":{
+      "@id": "purl:Unit",
+	  "@type": "@id"
+    },
     "Event": "td:Event",
     "Action": "td:Action",
     "inputData": {
