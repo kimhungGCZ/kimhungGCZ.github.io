@@ -40,7 +40,7 @@
     },
 	"unit":{
       "@id": "purl:Unit",
-	  "@value": "@id"
+	  "@type": "purl"
     },
     "Event": "td:Event",
     "Action": "td:Action",
