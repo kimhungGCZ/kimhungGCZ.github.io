@@ -40,7 +40,7 @@
     },
 	"unit":{
       "@id": "m3:Unit",
-	  "@type": "@id"
+	  "@type": "@m3"
     },
     "Event": "td:Event",
     "Action": "td:Action",
