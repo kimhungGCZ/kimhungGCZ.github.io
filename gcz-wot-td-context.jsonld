@@ -2,6 +2,7 @@
   "@context": {
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "td": "http://iot.linkeddata.es/def/wot#",
+	"purl": "http://purl.oclc.org/NET/ssnx/qu/qu",
     "Thing": "td:Thing",
     "name": "td:name",
     "base": {
@@ -36,6 +37,7 @@
       "@id": "td:isWritable",
       "@type": "xsd:boolean"
     },
+	"unit":"purl:Unit",
     "Event": "td:Event",
     "Action": "td:Action",
     "inputData": {
