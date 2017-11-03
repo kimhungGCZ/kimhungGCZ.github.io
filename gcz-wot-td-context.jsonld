@@ -5,6 +5,7 @@
 	"m3": "http://purl.org/iot/vocab/m3-lite#",
 	
     "Thing": "td:Thing",
+	"DegreeCelsius": "m3:DegreeCelsius",
     "name": "td:name",
     "base": {
       "@id": "td:baseURI",
