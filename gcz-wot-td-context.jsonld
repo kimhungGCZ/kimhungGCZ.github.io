@@ -41,7 +41,7 @@
     },
 	"unit":{
       "@id": "m3:Unit",
-	  "@type": "@m3"
+	  "@type": "@id"
     },
     "Event": "td:Event",
     "Action": "td:Action",
