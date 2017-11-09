@@ -36,7 +36,7 @@
     "OpenCommand": "saref:OpenCommand",
     "CloseCommand": "saref:CloseCommand",
 	
-	"celsius": "m3:DegreeCelsius",
+	"DegreeCelsius": "m3:DegreeCelsius",
     
     "actsUpon": "saref:actsUpon"
   }
